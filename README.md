@@ -1,3 +1,3 @@
 # Lern
-Here is my prototype currency converter
-Salary is a class.
+Here is my prototype salary calculator
+Salary in code is a class.
